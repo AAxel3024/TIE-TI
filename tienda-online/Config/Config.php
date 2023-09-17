@@ -3,8 +3,8 @@
 const HOST = "tienda-online2023.mysql.database.azure.com";
 const USER = "axel30";
 const PASS = "#Bonjie-3024";
-const DB = "tienda-online";
-const CHARSET = "charset=utf8";
+const DB = "tienda-database";
+//const CHARSET = "charset=utf8";
 //const TITLE = "TIENDA ONLINE";
 //const MONEDA = "USD";
 //const CLIENT_ID = "AXoIEDX2Xn49aZ946mLR1kIbzWu9lnZN6RiT3K3SxVVN7YF-HCkJae_-jWVcPBZNbMYYcoYQKf9I1OLW";
