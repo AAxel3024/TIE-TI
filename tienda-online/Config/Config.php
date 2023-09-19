@@ -11,6 +11,6 @@ const DB = "tienda-database";
 
 //const USER_SMTP = "axeladonisarteagaedeno@gmail.com";
 //const PASS_SMTP = "pdzwygypzempqgsr";
-//const PUERTO_SMTP = 465;
+const PUERTO_SMTP = 443;
 //const HOST_SMTP = "smtp.gmail.com";
 ?>
