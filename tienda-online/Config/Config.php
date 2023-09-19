@@ -3,22 +3,14 @@
 const HOST = "tienda-online2023.mysql.database.azure.com";
 const USER = "axel30";
 const PASS = "#Bonjie-3024";
-const DB = "tienda-database";
-//const CHARSET = "charset=utf8";
+const DB = "tienda-online";
+const CHARSET = "charset=utf8";
 //const TITLE = "TIENDA ONLINE";
 //const MONEDA = "USD";
 //const CLIENT_ID = "AXoIEDX2Xn49aZ946mLR1kIbzWu9lnZN6RiT3K3SxVVN7YF-HCkJae_-jWVcPBZNbMYYcoYQKf9I1OLW";
 
 //const USER_SMTP = "axeladonisarteagaedeno@gmail.com";
 //const PASS_SMTP = "pdzwygypzempqgsr";
-const PUERTO_SMTP = 443;
+//const PUERTO_SMTP = 465;
 //const HOST_SMTP = "smtp.gmail.com";
-server {
-    //listen 443 ssl;
-    server_name tiendaonline2023.azurewebsites.net;
-
-    ssl_certificate C:\Users\axela\Desktop\TIE-TIENDA-ONLINE\certificado\certificado.crt;
-    //ssl_certificate_key /ruta/al/private.key;
-}
 ?>
-
