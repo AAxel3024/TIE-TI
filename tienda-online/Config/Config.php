@@ -13,4 +13,12 @@ const DB = "tienda-database";
 //const PASS_SMTP = "pdzwygypzempqgsr";
 const PUERTO_SMTP = 443;
 //const HOST_SMTP = "smtp.gmail.com";
+server {
+    //listen 443 ssl;
+    server_name tiendaonline2023.azurewebsites.net;
+
+    ssl_certificate C:\Users\axela\Desktop\TIE-TIENDA-ONLINE\certificado\certificado.crt;
+    //ssl_certificate_key /ruta/al/private.key;
+}
 ?>
+
